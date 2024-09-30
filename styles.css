@@ -330,6 +330,7 @@ main .presentation{
     /* Styles pour les écrans très grands */
     main .presentation{
         height: 880px;
+        margin-bottom: -50px;
     }
     /* Ajoutez d'autres styles spécifiques ici */
 }
