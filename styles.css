@@ -491,6 +491,15 @@ main .tableau .container {
     height: 100vh;
 }
 
+@media screen and (min-width: 1370px) {
+    /* Styles pour les écrans très grands */
+    main .tableau .container{
+        margin-top: -20px;
+    }
+    /* Ajoutez d'autres styles spécifiques ici */
+}
+
+
 main .tableau .container h1 {
     margin-bottom: 50px;
     font-weight: normal;
